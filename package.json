@@ -1,0 +1,22 @@
+{
+  "name": "youtube-studio-data-extractor",
+  "version": "1.0.0",
+  "description": "Chrome Extension that extracts data from YouTube Studio",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadTahaGit/YouTube-Studio-Data-Extractor.git"
+  },
+  "keywords": [
+    "YouTube-Studio-Data-Extractor"
+  ],
+  "author": "Jad Taha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadTahaGit/YouTube-Studio-Data-Extractor/issues"
+  },
+  "homepage": "https://github.com/jadTahaGit/YouTube-Studio-Data-Extractor#readme"
+}
