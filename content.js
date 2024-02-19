@@ -35,6 +35,7 @@ function extractData() {
     });
   });
 
+  //insertDataIntoSheet(extractedData);
   return extractedData;
 }
 
@@ -45,3 +46,6 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     sendResponse({ data });
   }
 });
+
+// Function to insert data into Google Sheet
+function insertDataIntoSheet(data) {}
